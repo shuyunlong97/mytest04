@@ -6,4 +6,5 @@ package com.itheima.pojo;
  * 日期: 2019/11/14 20:51
  */
 public class User {
+    private  String name;
 }
